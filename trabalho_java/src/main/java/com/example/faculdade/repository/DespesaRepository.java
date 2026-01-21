@@ -1,4 +1,4 @@
-// A primeira linha DEVE ser esta
+
 package com.example.faculdade.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
